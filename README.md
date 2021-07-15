@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Atul [website]👋
+
+## I'm a Student and Developer!
+- 🔭 I’m currently working on a [Chrome/Edge extension][website]
+- 🌱 I’m currently learning svelte
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ... -->
+- ⚡ Fun fact: I love to play fps / open world games
+
+
 
 <!--
 **truedem0n/truedem0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
