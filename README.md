@@ -42,7 +42,7 @@
 
 <br />
 
-[![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=truedem0n)](https://github.com/anuraghazra/github-readme-stats)
+![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=truedem0n&count_private=true)
 
 
 <br />
