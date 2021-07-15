@@ -42,11 +42,11 @@
 
 <br />
 <br />
-
-
-![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=truedem0n&show_icons=true&theme=radical)
-
 <br />
+
+![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=truedem0n&show_icons=true&theme=radical&count_private=true)
+
+
 <br />
 <br />
 
