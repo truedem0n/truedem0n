@@ -3,12 +3,12 @@
 ## I'm a Student and Developer!
 - 🔭 I’m currently working on a [Chrome/Edge extension]
 - 🌱 I’m currently learning svelte
+- ⚡ Fun fact: I love to play fps / open world games
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I love to play fps / open world games
 
 ### Connect with me:
 
@@ -25,12 +25,10 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://www.cs.mun.ca/~amehla/
+[twitter]: https://twitter.com/atul_mehla
+[instagram]: https://www.instagram.com/atulmehla/
+[linkedin]: https://www.linkedin.com/in/amehla/
 <!--
 **truedem0n/truedem0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
