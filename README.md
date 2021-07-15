@@ -1,6 +1,6 @@
 ### Hi there, I'm [Atul](https://www.cs.mun.ca/~amehla/) 👋
-![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fwww.cs.mun.ca%2F~amehla%2F)
-![Twitter Follow](https://img.shields.io/twitter/follow/atul_mehla?color=%231DA1F2&style=for-the-badge)
+[![website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fwww.cs.mun.ca%2F~amehla%2F)](https://www.cs.mun.ca/~amehla/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/atul_mehla?color=%231DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=atul_mehla)
 
 ## I'm a Student and Developer!
 - 🔭 I’m currently working on a [Chrome/Edge extension]
