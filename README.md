@@ -1,4 +1,5 @@
 ### Hi there, I'm [Atul](https://www.cs.mun.ca/~amehla/) 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/atul_mehla?color=%231DA1F2&style=for-the-badge)
 
 ## I'm a Student and Developer!
 - 🔭 I’m currently working on a [Chrome/Edge extension]
