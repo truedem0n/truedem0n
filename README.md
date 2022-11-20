@@ -4,8 +4,8 @@
 
 ## I'm a Developer!
 - 🔭 I’m currently working on a [Chrome/Edge extension]
-- 🌱 I’m currently learning svelte
-- ⚡ Fun fact: I love to play fps / open world games
+- 🌱 I’m currently learning aws cloud
+- ⚡ Fun fact: I learned swimming by watching youtube videos :D
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
