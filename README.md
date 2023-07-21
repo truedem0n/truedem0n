@@ -1,5 +1,6 @@
+
 ### Hi there, I'm [Atul](https://www.cs.mun.ca/~amehla/) 👋
-[![website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fwww.cs.mun.ca%2F~amehla%2F)](https://www.cs.mun.ca/~amehla/)
+[![website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://atulmehla.cloud)](https://atulmehla.cloud)
 [![Twitter Follow](https://img.shields.io/twitter/follow/atul_mehla?color=%231DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=atul_mehla)
 
 ## I am currently working as a Cloud Developer.!
@@ -15,9 +16,9 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://gist.githubusercontent.com/hail2u/2884613/raw/0216962914635ef6e8e5389dd57a0e06f209fd72/twitter-bird.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://gist.githubusercontent.com/sebastianmarines/ab8da37c9cec1198f424ea343a090f4c/raw/1877a68ed40a84838da52b9c4b9416ac3d91a418/linkedin.svg" />][linkedin]
+<!-- -  [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
@@ -51,7 +52,7 @@
 <br />
 
 
-[website]: https://www.cs.mun.ca/~amehla/
+[website]: https://atulmehla.cloud/
 [twitter]: https://twitter.com/atul_mehla
 [instagram]: https://www.instagram.com/atulmehla/
 [linkedin]: https://www.linkedin.com/in/amehla/
