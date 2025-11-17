@@ -1,6 +1,6 @@
 
 ### Hi there, I'm [Atul](https://www.cs.mun.ca/~amehla/) 👋
-[![website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://atulmehla.cloud)](https://atulmehla.cloud)
+<!-- [![website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://atulmehla.cloud)](https://atulmehla.cloud) -->
 <!--  [![Twitter Follow](https://img.shields.io/twitter/follow/atul_mehla?color=%231DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=atul_mehla) -->
 
 ## I am currently working as a Senior Software Developer.!
